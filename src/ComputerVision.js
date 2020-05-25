@@ -88,6 +88,7 @@ class ComputerVision extends Component {
     render() {
         return (
             <div>
+                <div>hey</div>
                 <ImageLoader 
                 imageInfo={this.state}
                 extractText={this.getText}
