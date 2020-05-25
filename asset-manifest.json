@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/kaymerchant/github.io/image-reader/static/css/main.15391aaf.chunk.css",
-    "main.js": "/kaymerchant/github.io/image-reader/static/js/main.4474df96.chunk.js",
-    "main.js.map": "/kaymerchant/github.io/image-reader/static/js/main.4474df96.chunk.js.map",
-    "runtime-main.js": "/kaymerchant/github.io/image-reader/static/js/runtime-main.89ed930c.js",
-    "runtime-main.js.map": "/kaymerchant/github.io/image-reader/static/js/runtime-main.89ed930c.js.map",
-    "static/js/2.33bc4f8a.chunk.js": "/kaymerchant/github.io/image-reader/static/js/2.33bc4f8a.chunk.js",
-    "static/js/2.33bc4f8a.chunk.js.map": "/kaymerchant/github.io/image-reader/static/js/2.33bc4f8a.chunk.js.map",
-    "index.html": "/kaymerchant/github.io/image-reader/index.html",
-    "precache-manifest.cd7a5b483a7c5a9ac6d657f05fac146c.js": "/kaymerchant/github.io/image-reader/precache-manifest.cd7a5b483a7c5a9ac6d657f05fac146c.js",
-    "service-worker.js": "/kaymerchant/github.io/image-reader/service-worker.js",
-    "static/css/main.15391aaf.chunk.css.map": "/kaymerchant/github.io/image-reader/static/css/main.15391aaf.chunk.css.map",
-    "static/js/2.33bc4f8a.chunk.js.LICENSE.txt": "/kaymerchant/github.io/image-reader/static/js/2.33bc4f8a.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/image-reader/static/css/main.15391aaf.chunk.css",
+    "main.js": "/github.io/image-reader/static/js/main.1a6c4c98.chunk.js",
+    "main.js.map": "/github.io/image-reader/static/js/main.1a6c4c98.chunk.js.map",
+    "runtime-main.js": "/github.io/image-reader/static/js/runtime-main.7cb9eb25.js",
+    "runtime-main.js.map": "/github.io/image-reader/static/js/runtime-main.7cb9eb25.js.map",
+    "static/js/2.33bc4f8a.chunk.js": "/github.io/image-reader/static/js/2.33bc4f8a.chunk.js",
+    "static/js/2.33bc4f8a.chunk.js.map": "/github.io/image-reader/static/js/2.33bc4f8a.chunk.js.map",
+    "index.html": "/github.io/image-reader/index.html",
+    "precache-manifest.c6c79fbb881e8e1e22885b2616a01cde.js": "/github.io/image-reader/precache-manifest.c6c79fbb881e8e1e22885b2616a01cde.js",
+    "service-worker.js": "/github.io/image-reader/service-worker.js",
+    "static/css/main.15391aaf.chunk.css.map": "/github.io/image-reader/static/css/main.15391aaf.chunk.css.map",
+    "static/js/2.33bc4f8a.chunk.js.LICENSE.txt": "/github.io/image-reader/static/js/2.33bc4f8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.89ed930c.js",
+    "static/js/runtime-main.7cb9eb25.js",
     "static/js/2.33bc4f8a.chunk.js",
     "static/css/main.15391aaf.chunk.css",
-    "static/js/main.4474df96.chunk.js"
+    "static/js/main.1a6c4c98.chunk.js"
   ]
 }
