@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/image-reader/static/css/main.15391aaf.chunk.css",
-    "main.js": "/github.io/image-reader/static/js/main.1a6c4c98.chunk.js",
-    "main.js.map": "/github.io/image-reader/static/js/main.1a6c4c98.chunk.js.map",
-    "runtime-main.js": "/github.io/image-reader/static/js/runtime-main.7cb9eb25.js",
-    "runtime-main.js.map": "/github.io/image-reader/static/js/runtime-main.7cb9eb25.js.map",
-    "static/js/2.33bc4f8a.chunk.js": "/github.io/image-reader/static/js/2.33bc4f8a.chunk.js",
-    "static/js/2.33bc4f8a.chunk.js.map": "/github.io/image-reader/static/js/2.33bc4f8a.chunk.js.map",
-    "index.html": "/github.io/image-reader/index.html",
-    "precache-manifest.c6c79fbb881e8e1e22885b2616a01cde.js": "/github.io/image-reader/precache-manifest.c6c79fbb881e8e1e22885b2616a01cde.js",
-    "service-worker.js": "/github.io/image-reader/service-worker.js",
-    "static/css/main.15391aaf.chunk.css.map": "/github.io/image-reader/static/css/main.15391aaf.chunk.css.map",
-    "static/js/2.33bc4f8a.chunk.js.LICENSE.txt": "/github.io/image-reader/static/js/2.33bc4f8a.chunk.js.LICENSE.txt"
+    "main.css": "/image-reader/static/css/main.15391aaf.chunk.css",
+    "main.js": "/image-reader/static/js/main.68db4d2d.chunk.js",
+    "main.js.map": "/image-reader/static/js/main.68db4d2d.chunk.js.map",
+    "runtime-main.js": "/image-reader/static/js/runtime-main.9aa8430b.js",
+    "runtime-main.js.map": "/image-reader/static/js/runtime-main.9aa8430b.js.map",
+    "static/js/2.33bc4f8a.chunk.js": "/image-reader/static/js/2.33bc4f8a.chunk.js",
+    "static/js/2.33bc4f8a.chunk.js.map": "/image-reader/static/js/2.33bc4f8a.chunk.js.map",
+    "index.html": "/image-reader/index.html",
+    "precache-manifest.cfe5b683c16ad3cf78b6c5e2709e58a0.js": "/image-reader/precache-manifest.cfe5b683c16ad3cf78b6c5e2709e58a0.js",
+    "service-worker.js": "/image-reader/service-worker.js",
+    "static/css/main.15391aaf.chunk.css.map": "/image-reader/static/css/main.15391aaf.chunk.css.map",
+    "static/js/2.33bc4f8a.chunk.js.LICENSE.txt": "/image-reader/static/js/2.33bc4f8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cb9eb25.js",
+    "static/js/runtime-main.9aa8430b.js",
     "static/js/2.33bc4f8a.chunk.js",
     "static/css/main.15391aaf.chunk.css",
-    "static/js/main.1a6c4c98.chunk.js"
+    "static/js/main.68db4d2d.chunk.js"
   ]
 }
