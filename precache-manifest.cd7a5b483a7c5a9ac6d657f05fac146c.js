@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b07a789e879c1518d0e266a4d747e282",
+    "revision": "48d61b04fd173f0d493b7918afa0a8ca",
     "url": "/kaymerchant/github.io/image-reader/index.html"
   },
   {
-    "revision": "529e5a439be8637630e3",
+    "revision": "423d41059de392fa82be",
     "url": "/kaymerchant/github.io/image-reader/static/css/main.15391aaf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kaymerchant/github.io/image-reader/static/js/2.33bc4f8a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "529e5a439be8637630e3",
-    "url": "/kaymerchant/github.io/image-reader/static/js/main.4dc1fe59.chunk.js"
+    "revision": "423d41059de392fa82be",
+    "url": "/kaymerchant/github.io/image-reader/static/js/main.4474df96.chunk.js"
   },
   {
     "revision": "d241f831a6529b24b6f7",
