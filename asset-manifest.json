@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/image-reader/static/css/main.15391aaf.chunk.css",
-    "main.js": "/image-reader/static/js/main.eb14a2c5.chunk.js",
-    "main.js.map": "/image-reader/static/js/main.eb14a2c5.chunk.js.map",
+    "main.js": "/image-reader/static/js/main.9d5a0970.chunk.js",
+    "main.js.map": "/image-reader/static/js/main.9d5a0970.chunk.js.map",
     "runtime-main.js": "/image-reader/static/js/runtime-main.9aa8430b.js",
     "runtime-main.js.map": "/image-reader/static/js/runtime-main.9aa8430b.js.map",
     "static/js/2.33bc4f8a.chunk.js": "/image-reader/static/js/2.33bc4f8a.chunk.js",
     "static/js/2.33bc4f8a.chunk.js.map": "/image-reader/static/js/2.33bc4f8a.chunk.js.map",
     "index.html": "/image-reader/index.html",
-    "precache-manifest.f86b81777bbf4190ee8eaa6826a75629.js": "/image-reader/precache-manifest.f86b81777bbf4190ee8eaa6826a75629.js",
+    "precache-manifest.a9b6b13ff539fd52b5f253f39cd36d96.js": "/image-reader/precache-manifest.a9b6b13ff539fd52b5f253f39cd36d96.js",
     "service-worker.js": "/image-reader/service-worker.js",
     "static/css/main.15391aaf.chunk.css.map": "/image-reader/static/css/main.15391aaf.chunk.css.map",
     "static/js/2.33bc4f8a.chunk.js.LICENSE.txt": "/image-reader/static/js/2.33bc4f8a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9aa8430b.js",
     "static/js/2.33bc4f8a.chunk.js",
     "static/css/main.15391aaf.chunk.css",
-    "static/js/main.eb14a2c5.chunk.js"
+    "static/js/main.9d5a0970.chunk.js"
   ]
 }
